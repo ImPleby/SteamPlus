@@ -1,6 +1,6 @@
 # SteamPlus
 
-  ## Step 1) Create a new folder named "SteamPlus" and add it to your antivirus exclusions.
+  ## Create a new folder named "SteamPlus" and add it to your antivirus exclusions.
   - Create a new folder named `SteamPlus` and place it in a permanent location where it will not be moved. (If it does need to be relocated. Follow step 2)
   - Open **Windows Security** by typing it into the Windows search bar.
   - Navigate to **Virus & threat protection**.
@@ -9,12 +9,12 @@
   - Click **Add an exclusion** and select **Folder**.
   - When File Explorer opens, locate and select the **SteamPlus** folder.
   
-  ## Step 2) Installing SteamPlus.
+  ## Installing SteamPlus.
   - Download SteamPlus.zip from my discord server. Extract everything in SteamPlus.zip to the SteamPlus folder.
   - Run **SteamPlus.exe** and click on **Check for updates**. it will ask to update click yes.
   - Once updated click SteamPlus and steam will open.
   
-  ## Step 3) Making SteamPlus easier to access
+  ## Making SteamPlus easier to access
   - Right-click **SteamPlus.exe** and create a shortcut. Place the shortcut wherever you prefer.
   - You can place the shortcut on your **Desktop**, **Start Menu**, or both.
 
