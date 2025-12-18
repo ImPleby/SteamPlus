@@ -1,7 +1,7 @@
 # SteamPlus
 
   ## Step 1) Create a new folder named "SteamPlus" and add it to your antivirus exclusions.
-  - Create a new folder named **SteamPlus** and place it in a permanent location where it will not be moved. (If it does need to be relocated. Follow step 2)
+  - Create a new folder named `SteamPlus` and place it in a permanent location where it will not be moved. (If it does need to be relocated. Follow step 2)
   - Open **Windows Security** by typing it into the Windows search bar.
   - Navigate to **Virus & threat protection**.
   - Click **Manage settings** under **Virus & threat protection settings**.
